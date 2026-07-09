@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moouscripts/AiScriptsUniversal/refs/heads/main/Rainbow%20Admin%20Script%20Code"))()
